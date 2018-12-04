@@ -1,0 +1,26 @@
+{
+  "name": "mb-io-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "openzeppelin-solidity": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LewisFreitas/mb-io-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LewisFreitas/mb-io-challenge/issues"
+  },
+  "homepage": "https://github.com/LewisFreitas/mb-io-challenge#readme"
+}
