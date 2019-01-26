@@ -76,4 +76,3 @@ investment before the investment period ends.
 
 Contract sends the needed amount to the winner idea and returns to remaining amount
 to the investors.
-# CrowdFunding
